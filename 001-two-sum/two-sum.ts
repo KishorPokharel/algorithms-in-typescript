@@ -1,3 +1,8 @@
+/*
+Given the array of numbers and a target sum write a function
+that returns an array of two numbers whose sum is the target sum
+*/
+
 export function twoSum(arr: number[], targetSum: number): number[] {
     let table = {};
 
